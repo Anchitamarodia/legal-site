@@ -1,0 +1,8 @@
+{
+  "name": "Yugality - Modern Legal Tech Platform",
+  "description": "A high-performance, pixel-perfect Legal Tech landing page featuring an AI assistant, document management, and case analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
